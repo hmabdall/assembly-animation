@@ -5,6 +5,6 @@ This is an animation I made with Cameron Beyer (cambeyer.com) in a computer scie
 
 Easy68K is available for download here: http://www.easy68k.com/
 
-To run it with music playing, you must place the quantum.wav video in the same directory as the source file when running it. The quantum.wav file is available here: mit.edu/hmabdall/Public/quantum.wav
+To run it with music playing, you must place the quantum.wav video in the same directory as the source file when running it. The quantum.wav file is available here: http://mit.edu/hmabdall/Public/quantum.wav
 
 If you only want to see it in action, here's a video capture by Cameron: https://www.youtube.com/watch?v=KHBWG5XCNds

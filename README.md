@@ -1,4 +1,4 @@
-Particle Animation in Assembly
+Nucleus Animation in Assembly
 ==================
 
 This is an animation I made with Cameron Beyer (http://www.cambeyer.com). It's meant to portray a nucleus and its electron cloud, and is built in assembly code written for the Motorola 68K processor. 

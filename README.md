@@ -1,7 +1,7 @@
 Particle Animation in Assembly
 ==================
 
-This is an animation I made with Cameron Beyer (http://www.cambeyer.com) in a computer science class while I was in high school. It's (kind of) supposed to portray a nucleus and its electron cloud. It's built in assembly code written for the Motorola 68K processor. 
+This is an animation I made with Cameron Beyer (http://www.cambeyer.com). It's meant to portray a nucleus and its electron cloud, and is built in assembly code written for the Motorola 68K processor. 
 
 To view and edit the source code, you must use Easy68K, which is the only editor available for working in 68K assembly code.
 
